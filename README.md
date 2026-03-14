@@ -12,20 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Vaishnavi-iyer67&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-iyer67&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vaishnavi-iyer67&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vaishnavi-iyer67&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Vaishnavi-iyer67&icon=2&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/VaishnaviKN) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
