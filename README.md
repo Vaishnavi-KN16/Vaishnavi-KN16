@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m currently working on: Cortexa AI and a Stock Market AI Analyzer.<br><br>👯 I’m looking to collaborate on: Open-source projects and internship opportunities.<br><br>🌱 I’m currently learning: Agentic AI and advanced LLM orchestration.<br><br>💬 Ask me about: Debugging, software development, and Python.<br><br>⚡ Fun fact: some times it takes to long to fix things when I'm not involved !!( that is only when people make things boring and old fashioned  
+I’m currently working on: Cortexa AI and a Stock Market AI Analyzer.<br><br>👯 I’m looking to collaborate on: Open-source projects and internship opportunities.<br><br>🌱 I’m currently learning: Agentic AI and advanced LLM orchestration.<br><br>💬 Ask me about: Debugging, software development, and Python.<br><br>⚡ Fun fact: some times it takes to long to fix things when I'm not involved !!( that is only when people make things boring and old fashioned  
 
 
 ## 🌐 Socials:
@@ -14,6 +14,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 [![](https://visitcount.itsvg.in/api?id=Vaishnavi-iyer67&icon=2&color=6)](https://visitcount.itsvg.in)
 
