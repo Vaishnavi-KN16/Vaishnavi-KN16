@@ -11,6 +11,9 @@ I’m currently working on: Cortexa AI and a Stock Market AI Analyzer.<br><br>�
 ![](https://github-readme-stats.vercel.app/api?username=Vaishnavi-KN16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vaishnavi-KN16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-KN16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Vaishnavi-KN16/Vaishnavi-KN16/blob/output/github-contribution-grid-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
