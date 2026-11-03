@@ -1,15 +1,17 @@
+
 # Building in open.
 
-`AI & DS ` `Software Engineering` `Open Source` `DevOps & Cloud` `MERN` `App-development`
+`AI & DS` `Software Engineering` `Open Source` `DevOps & Cloud` `MERN` `App Development`
 
 ---
 
+## // currently exploring
+
 ```text
-Currently building my startup `InfuBee` a
+Currently building my startup InfuBee.
 
-
-Exploring agentic AI, LLM orchestration, open-source development
-and cloud-native technologies.
+Exploring agentic AI, LLM orchestration, open-source development,
+cloud-native technologies and application development.
 ```
 
 ---
@@ -17,19 +19,16 @@ and cloud-native technologies.
 ## // about me
 
 ```text
-I'm a Entrepreneur and a Developer  who enjoys building things, experimenting with
-new technologies and solving real world problems.
+I'm an Entrepreneur and Developer who enjoys building things,
+experimenting with new technologies and solving real-world problems.
 
 Interested in:
-    Startup Ecosystems and Community Building
-    Software Engineering
-    Artificial Intelligence & Machine Learning
-    Open Source Development
-    DevOps & Cloud Native Technologies
-    App Development 
-   
-
-
+   Startup Ecosystems and Community Building
+   Software Engineering
+   Artificial Intelligence & Machine Learning
+   Open Source Development
+   DevOps & Cloud Native Technologies
+   Application Development
 ```
 
 ---
@@ -38,15 +37,17 @@ Interested in:
 
 ```text
 01  InfuBee
-    A playable Learning app, bite sized 2 way learning  ,( understanding ,  skills > videos , tutors , learning in content )
+    A playable learning app focused on bite-sized, interactive,
+    two-way learning experiences.
 
 02  Health'X
-    An AI based  health care supportive app 
+    An AI-based healthcare support application.
 
 03  Open Source
     Exploring developer communities and contributing to
     collaborative software projects.
 ```
+
 ---
 
 ## // tech stack
@@ -88,21 +89,21 @@ FFmpeg · Canva · Adobe Photoshop · After Effects
 
 ---
 
-
-
-## // github activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-KN16&theme=dark&hide_border=true&show_icons=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Vaishnavi-KN16&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-KN16&theme=dark&hide_border=true&layout=compact)
-
----
-
 ## // contribution graph
 
 ![Contribution Snake](https://github.com/Vaishnavi-KN16/Vaishnavi-KN16/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## // writing & thoughts
+
+Sharing what I learn, exploring concepts, and documenting my technical journey.
+
+**01.** [Understanding IP Addresses: IPv4, IPv6, DNS and Internet Protocols](https://medium.com/@iyervaishnavi60/understanding-ip-addresses-ipv4-ipv6-dns-and-internet-protocols-c642d994831d)
+
+**02.** [When You Install Python, What Do You Get?](https://medium.com/@iyervaishnavi60/when-you-install-python-what-do-you-get-dda140899d55)
+
+[More articles on Medium →](https://medium.com/@iyervaishnavi60)
 
 ---
 
@@ -118,6 +119,9 @@ FFmpeg · Canva · Adobe Photoshop · After Effects
   <a href="mailto:vaishnavikn122@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://medium.com/@iyervaishnavi60">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -125,4 +129,3 @@ FFmpeg · Canva · Adobe Photoshop · After Effects
 ```text
 building, breaking, learning and building again.
 ```
-
