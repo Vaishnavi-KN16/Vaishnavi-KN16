@@ -1,5 +1,5 @@
 
-# Building in open.
+#  Evidence - ( MY IDEAS CAN BE BUILT ) .
 
 `AI & DS` `Software Engineering` `Open Source` `DevOps & Cloud` `MERN` `App Development`
 
